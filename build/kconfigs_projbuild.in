@@ -1,0 +1,6 @@
+source "C:/esp-idf-v4.4/components/app_update/Kconfig.projbuild"
+source "C:/esp-idf-v4.4/components/bootloader/Kconfig.projbuild"
+source "C:/esp-idf-v4.4/components/esp_rom/Kconfig.projbuild"
+source "C:/esp-idf-v4.4/components/esptool_py/Kconfig.projbuild"
+source "C:/esp-idf-v4.4/components/partition_table/Kconfig.projbuild"
+source "C:/esp-idf-v4.4/examples/Test-EvansWerks/ble_mesh_wifi_coexist-2/main/Kconfig.projbuild"
